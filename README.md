@@ -6,7 +6,6 @@ This project contains an end-to-end data analysis repository analyzing Target's 
 ## 📁 Repository Directory Structure
 * `/sql_scripts`: Contains structured standalone SQL files broken down by business analysis categories.
 * `/visualizations`: Houses query output screenshots and trend graphs.
-* `/data`: Contains schema metadata explanations.
 
 ## 🛠 Tech Stack Used
 * **Database Platform:** Google BigQuery
